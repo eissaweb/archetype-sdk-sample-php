@@ -1,0 +1,5 @@
+{
+    "require": {
+        "archetype-dev/php-sdk": "^1.1"
+    }
+}
